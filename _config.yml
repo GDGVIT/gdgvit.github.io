@@ -48,19 +48,19 @@ navigationLinks:
  - {permalink: "/speakers/", text: "Board"}
  - {permalink: "/team/", text: "Team"}
 bottomNavigationLinks:
- - {link: "https://projects.gdgvitvellore.com", text: "Submit a Project Idea"}
+ - {link: "http://projects.gdgvitvellore.com", text: "Submit a Project Idea"}
 rightNavigationButtons:
- - {link: "https://projects.gdgvitvellore.com", text: "Submit a Project Idea"}
+ - {link: "http://projects.gdgvitvellore.com", text: "Submit a Project Idea"}
 
 # Hero Block
 heroImage: "hero.jpg"
 heroTitle: "Meet the team who <typeout>"
 eventDate: "GDG VIT Vellore"
-typeoutTextValues: '"", "made MyVIT", "made SharePaper", "made Relief Chennai", "conducts Devfests", "hosts Google I/Os"'
+typeoutTextValues: '"", "made MyVIT", "made SharePaper", "made Relief Chennai", "conducts Devfests", "hosts Google I/O extended"'
 typeoutFallback: "Season"
 heroButtons:
  - {permalink: "/#contact", text: "Contact Us"}
- - {link: "https://projects.gdgvitvellore.com", text: "Submit a Project Idea"}
+ - {link: "http://projects.gdgvitvellore.com", text: "Submit a Project Idea"}
 
 # About Block
 aboutTitle: "About GDG VIT Vellore"
@@ -72,7 +72,7 @@ aboutBlock:
 # Statistic Block
 statisticBlockImage: "statistic.jpg"
 statisticBlock:
- - {count: "87", specialCharacter: "", info: "members", detail: "in various domains"}
+ - {count: "80", specialCharacter: "+", info: "members", detail: "in various domains"}
  - {count: "60", specialCharacter: "+", info: "projects", detail: "that we work on"}
  - {count: "1", specialCharacter: "", info: "vision", detail: "that is technology for all"}
 
