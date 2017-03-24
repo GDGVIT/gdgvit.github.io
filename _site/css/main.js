@@ -3685,13 +3685,15 @@ export default StyleSheet.create({
         "backgroundRepeat": "no-repeat"
     },
     "logologo-dark": {
-        "backgroundPosition": "0 -1px"
+        "backgroundPosition": "0 -1px",
+        "backgroundSize":"cover"
     },
     "logologo-gray": {
         "backgroundPosition": "0 -63px"
     },
     "logologo-light": {
-        "backgroundPosition": "0 -127px"
+        "backgroundPosition": "0 -127px",
+        "backgroundSize":"cover"
     },
     "icon": {
         "display": "inline-block",
