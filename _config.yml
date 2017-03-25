@@ -74,7 +74,7 @@ statisticBlockImage: "statistic.jpg"
 statisticBlock:
  - {count: "80", specialCharacter: "+", info: "members", detail: "in various domains"}
  - {count: "60", specialCharacter: "+", info: "projects", detail: "that we work on"}
- - {count: "1", specialCharacter: "", info: "vision", detail: "that is technology for all"}
+ - {count: "1", specialCharacter: "", info: "vision", detail: "technology"}
 
 
 # Latest News Block
