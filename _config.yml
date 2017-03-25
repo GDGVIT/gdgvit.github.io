@@ -45,7 +45,7 @@ navigationLinks:
  - {permalink: "/", text: "Home"}
  - {link: "http://blog.gdgvitvellore.com", text: "Blog"}
  - {permalink: "/schedule/", text: "Events"}
- - {permalink: "/speakers/", text: "Board"}
+ - {permalink: "/organizers/", text: "Board"}
  - {permalink: "/team/", text: "Team"}
 bottomNavigationLinks:
  - {link: "http://projects.gdgvitvellore.com", text: "Submit a Project Idea"}
