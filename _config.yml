@@ -88,9 +88,9 @@ rockstarSpeakersButtonText: "See the board"
 
 # Location Block
 locationBlockTitle: "Location"
-eventLocationName: "Conference Hall"
-eventLocationLink: "http://cabinet.kinopalace.lviv.ua/showtimes/"
-eventStreetAddress: "22 Teatral'na St"
+eventLocationName: "VIT University"
+eventLocationLink: "http://vit.ac.in"
+eventStreetAddress: "Katpadi"
 eventAddressLocality: "Vellore"
 eventAddressLocalityRegion: "VIT"
 eventPostalCode: "632014"
