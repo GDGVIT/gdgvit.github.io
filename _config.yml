@@ -172,24 +172,24 @@ ticketsOffers:
 
 # Footer
 socialLinks:
- - {link: "https://plus.google.com/b/102444623953913144164", icon: "google-plus"}
- - {link: "https://twitter.com/intent/user?screen_name=GDGLviv", icon: "twitter"}
- - {link: "https://facebook.com/GDGLviv", icon: "facebook"}
+ - {link: "https://plus.google.com/+gdgvitvellore", icon: "google-plus"}
+ - {link: "https://twitter.com/gdgvit", icon: "twitter"}
+ - {link: "https://www.facebook.com/gdgvitvellore/", icon: "facebook"}
  - {permalink: "/feed.xml", icon: "rss"}
 footerBlocks:
  -
   title: "Links"
   links:
-   - {link: "http://gdg.org.ua", text: "GDG.org.ua"}
+   - {link: "http://gdgvitvellore.com", text: "GDG VIT Vellore"}
    - {link: "https://developers.google.com", text: "Google Developers"}
  -
   title: "Contacts"
   links:
-   - {link: "mailto:lviv@gdg.org.ua", text: "lviv@gdg.org.ua"}
+   - {link: "mailto:gdgvitvellore@gmail.com", text: "gdgvitvellore@gmail.com"}
  -
-  title: "FAQ"
+  title: "Privacy"
   links:
-   - {permalink: "/cod/", text: "Code of Conduct"}
+   - {permalink: "/privacy/", text: "Privacy Policy"}
 
 # Blog
 blogTitle: "Latest news"
