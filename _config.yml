@@ -54,10 +54,10 @@ rightNavigationButtons:
 
 # Hero Block
 heroImage: "hero.jpg"
-heroTitle: "Meet the team who <typeout>"
+heroTitle: "Meet the team that <typeout>"
 eventDate: "GDG VIT Vellore"
-typeoutTextValues: '"", "made MyVIT", "made SharePaper", "made Relief Chennai", "conduct Devfests", "hosts Google I/O extended","really does some work in VIT!","made VOLSBB Onetouch","made MyFFCS"'
-typeoutFallback: "creates awesome things!"
+typeoutTextValues: '"", "made MyVIT", "made SharePaper", "made Relief Chennai", "conducts Devfests", "hosts Google I/O extended","really does work in VIT","made VOLSBB Onetouch","made MyFFCS"'
+typeoutFallback: "innovates"
 heroButtons:
  - {permalink: "/#contact", text: "Contact Us"}
  - {link: "http://projects.gdgvitvellore.com", text: "Submit a Project Idea"}
@@ -72,8 +72,9 @@ aboutBlock:
 # Statistic Block
 statisticBlockImage: "statistic.jpg"
 statisticBlock:
- - {count: "80", specialCharacter: "+", info: "members", detail: "in various domains"}
+ - {count: "70", specialCharacter: "+", info: "members", detail: "in various domains"}
  - {count: "60", specialCharacter: "+", info: "projects", detail: "that we work on"}
+ - {count: "40", specialCharacter: "+", info: "events", detail: "that we conducted"}
  - {count: "1", specialCharacter: "", info: "vision", detail: "technology"}
 
 
@@ -126,7 +127,7 @@ partnersC4sponsorsButton: "Become a sponsor"
 subscribeImage: "subscribe.jpg"
 subscribeTitle: "Subscribe for updates"
 subscribeAction: "#"
-subscribeInfo: "Your email will stay public with us."
+subscribeInfo: "Your emails stay safe with us."
 
 # Tickets Block
 ticketsTitle: "Pricetable"
