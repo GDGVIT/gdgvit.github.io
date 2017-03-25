@@ -57,7 +57,7 @@ heroImage: "hero.jpg"
 heroTitle: "Meet the team who <typeout>"
 eventDate: "GDG VIT Vellore"
 typeoutTextValues: '"", "made MyVIT", "made SharePaper", "made Relief Chennai", "conduct Devfests", "hosts Google I/O extended","really does some work in VIT!","made VOLSBB Onetouch","made MyFFCS"'
-typeoutFallback: "Season"
+typeoutFallback: "creates awesome things!"
 heroButtons:
  - {permalink: "/#contact", text: "Contact Us"}
  - {link: "http://projects.gdgvitvellore.com", text: "Submit a Project Idea"}
