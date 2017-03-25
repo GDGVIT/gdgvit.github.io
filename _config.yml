@@ -45,7 +45,7 @@ navigationLinks:
  - {permalink: "/", text: "Home"}
  - {link: "http://blog.gdgvitvellore.com", text: "Blog"}
  - {permalink: "/schedule/", text: "Events"}
- - {permalink: "/organizers/", text: "Board"}
+ - {permalink: "/organizers/", text: "Organizers"}
  - {permalink: "/team/", text: "Team"}
 bottomNavigationLinks:
  - {link: "http://projects.gdgvitvellore.com", text: "Submit a Project Idea"}
@@ -83,8 +83,8 @@ latestNewsTitle: "Latest news"
 # Rockstar Speakers Block
 rockstarSpeakersImage: "rockstar-speakers.jpg"
 rockstarSpeakersCount: 10
-rockstarSpeakersTitle: "Board Members"
-rockstarSpeakersButtonText: "See the board"
+rockstarSpeakersTitle: "Organizers"
+rockstarSpeakersButtonText: "See more"
 
 # Location Block
 locationBlockTitle: "Location"
