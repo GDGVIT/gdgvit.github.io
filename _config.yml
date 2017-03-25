@@ -43,7 +43,7 @@ c4sponsorsUrl: "/assets/GDG_DevFest_Partnership.pdf"
 # Navigation
 navigationLinks:
  - {permalink: "/", text: "Home"}
- - {link: "https://blog.gdgvitvellore.com", text: "Blog"}
+ - {link: "http://blog.gdgvitvellore.com", text: "Blog"}
  - {permalink: "/schedule/", text: "Events"}
  - {permalink: "/speakers/", text: "Board"}
  - {permalink: "/team/", text: "Team"}
