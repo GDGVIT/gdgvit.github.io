@@ -18,6 +18,8 @@
   bio: "Ashwini's bio"
   thumbnailUrl: ashwini.jpg
   rockstar: true
+  ribbon:
+    - {abbr: "GDG", title: "Google Developer Group", url: "https://developers.google.com/groups/chapter/107562802227561437057/"}
   social:
     - {name: "google-plus", link: "https://plus.google.com/+DmytroDanylyk"}
     - {name: "twitter", link: "https://twitter.com/dmytrodanylyk"}
@@ -32,7 +34,6 @@
   thumbnailUrl: rishiraj.jpg
   rockstar: true
   ribbon:
-    - {abbr: "GDE", title: "Google Developer Expert", url: "https://developers.google.com/experts/"}
     - {abbr: "GDG", title: "Google Developer Group", url: "https://developers.google.com/groups/chapter/107562802227561437057/"}
   social:
     - {name: "google-plus", link: "https://plus.google.com/+MateuszHerych"}
