@@ -13,7 +13,7 @@ exclude: ['/automation/', 'README.md', 'LICENSE.txt', 'CNAME']
 title: "GDG-VIT Vellore"
 email: "gdgvitvellore@gmail.com"
 description: "GDG-VIT Vellore"
-baseurl: "/gdgvit-jekyll"
+baseurl: "/"
 url: "https://aalind0.github.io"
 permalink: "/blog/:title"
 googleAnalyticsTrackingId: ""
