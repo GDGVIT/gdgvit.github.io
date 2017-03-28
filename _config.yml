@@ -60,7 +60,7 @@ typeoutTextValues: '"", "made MyVIT", "made SharePaper", "made Relief Chennai", 
 typeoutFallback: "innovates"
 heroButtons:
  - {permalink: "/#contact", text: "Contact Us"}
- - {link: "http://projects.gdgvitvellore.com", text: "Submit a Project Idea"}
+ - {link: "http://ideas.gdgvitvellore.com", text: "Submit a Project Idea"}
 
 # About Block
 aboutTitle: "About GDG VIT Vellore"
