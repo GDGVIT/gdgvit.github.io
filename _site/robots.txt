@@ -1,1 +1,1 @@
-Sitemap: http://localhost:4000/gdgvit-jekyll/sitemap.xml
+Sitemap: http://localhost:4000/fello/sitemap.xml
