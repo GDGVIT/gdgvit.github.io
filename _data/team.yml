@@ -52,8 +52,8 @@
   social:
     - {name: "google-plus", link: "https://plus.google.com/+RahulAKrishna"}
     - {name: "github", link: "https://github.com/rahulakrishna"}
-    - {name: "twitter",link:"https://twitter.com/rahulakrishna"}
-    - {name: "site",link:"https://rahulakrishna.github.io"}
+    - {name: "twitter", link: "https://twitter.com/rahulakrishna"}
+    - {name: "site", link: "https://rahulakrishna.github.io"}
 -
   id: 2
   name: "Ujjwal"
