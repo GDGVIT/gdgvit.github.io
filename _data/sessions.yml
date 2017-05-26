@@ -11,12 +11,12 @@
   service: true
 -
   id: 001
-  title: "WTM: Conference"
-  description: "For women."
+  title: "I/O Extended 2017"
+  description: "Google I/O is an annual developer conference held by Google in San Francisco, California. I/O showcases technical in-depth sessions focused on building web, mobile, and enterprise applications. With I/O extended we stretch this confenece to the various parts of the world."
   subtype: workshop
   language: en
   complexity: "Intermediate"
-  video: "//www.youtube.com/embed/AZXtJuSLz54"
+  video: "//www.youtube.com/embed/CNLVZjBE08g"
 -
   id: 002
   title: "Vice President"
