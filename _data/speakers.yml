@@ -109,6 +109,20 @@
     - {name: "google-plus", link: "https://google.com/+ValentynShybanov"}
     - {name: "site", link: "http://olostan.name/"}
 -
+  id: 12
+  name: "Rajat"
+  surname: "Mukati"
+  company: "Design Head"
+  title: "Design"
+  bio: "Shubhanjan's Bio."
+  thumbnailUrl: Rajat.jpg
+  rockstar: true
+  ribbon:
+    - {abbr: "GDG", title: "Google Developer Group", url: "https://developers.google.com/groups/chapter/110301321530950732281/"}
+  social:
+    - {name: "google-plus", link: "https://google.com/+ValentynShybanov"}
+    - {name: "site", link: "http://olostan.name/"}
+-
   id: 11
   name: "Akanshi"
   surname: "Srivastava"
@@ -122,3 +136,4 @@
   social:
     - {name: "google-plus", link: "https://google.com/+ValentynShybanov"}
     - {name: "site", link: "http://olostan.name/"}
+
