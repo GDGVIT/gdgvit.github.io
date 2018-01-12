@@ -67,6 +67,20 @@
     - {name: "google-plus", link: "https://google.com/+ValentynShybanov"}
     - {name: "site", link: "http://olostan.name/"}
 -
+  id: 9
+  name: "Shubham"
+  surname: "Bharadwaj"
+  company: "Research & Development Lead"
+  title: "Management"
+  bio: "Shanya's Bio."
+  thumbnailUrl: Shubham.jpg
+  rockstar: true
+  ribbon:
+    - {abbr: "GDG", title: "Google Developer Group", url: "https://developers.google.com/groups/chapter/110301321530950732281/"}
+  social:
+    - {name: "google-plus", link: "https://google.com/+ValentynShybanov"}
+    - {name: "site", link: "http://olostan.name/"}
+-
   id: 8
   name: "Siddharth"
   surname: "Kola"
@@ -81,13 +95,13 @@
     - {name: "google-plus", link: "https://google.com/+ValentynShybanov"}
     - {name: "site", link: "http://olostan.name/"}
 -
-  id: 9
-  name: "Shubham"
-  surname: "Bharadwaj"
-  company: "Research & Development Lead"
+  id: 13
+  name: "Rishab"
+  surname: "Taneja"
+  company: "Management Analyst"
   title: "Management"
   bio: "Shanya's Bio."
-  thumbnailUrl: Shubham.jpg
+  thumbnailUrl: RishabTaneja.jpg
   rockstar: true
   ribbon:
     - {abbr: "GDG", title: "Google Developer Group", url: "https://developers.google.com/groups/chapter/110301321530950732281/"}
