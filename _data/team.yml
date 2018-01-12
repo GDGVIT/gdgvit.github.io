@@ -1,32 +1,4 @@
 -
-  id: 24
-  name: "Rishi"
-  surname: "Raj"
-  title: "Web Developer"
-  thumbnailUrl: Rishi.JPG
-  team: true
-  ribbon:
-    - {abbr: "GDG", title: "Google Developer Group"}
-  social:
-    - {name: "google-plus", link: "https://plus.google.com/+RishiRaj95"}
-    - {name: "twitter", link: "https://twitter.com/rishirajloyola"}
-    - {name: "github", link: "https://github.com/rishiraj824"}
-    - {name: "site", link: "http://rishiraj.co/"}
--
-  id: 25
-  name: "Ashwini"
-  surname: "Purohit"
-  title: "Web Developer"
-  thumbnailUrl: Ashwini.jpg
-  team: true
-  ribbon:
-    - {abbr: "GDG", title: "Google Developer Group"}
-  social:
-    - {name: "google-plus", link: "https://plus.google.com/112305110505268730563"}
-    - {name: "twitter", link: ""}
-    - {name: "github", link: "https://github.com/ashwini0529"}
-    - {name: "site", link: "http://ashwini0529.github.io"}
--
   id: 0
   name: "Aalind"
   surname: "Singh"
@@ -40,20 +12,6 @@
     - {name: "twitter", link: "https://twitter.com/singh_aalind"}
     - {name: "github", link: "https://github.com/aalind0"}
     - {name: "site", link: "https://aalind0.github.io/"}
--
-  id: 1
-  name: "Rahul"
-  surname: "Krishna"
-  title: "Web Developer"
-  thumbnailUrl: Rahul.jpg
-  team: true
-  ribbon:
-    - {abbr: "GDG", title: "Google Developer Group"}
-  social:
-    - {name: "google-plus", link: "https://plus.google.com/+RahulAKrishna"}
-    - {name: "github", link: "https://github.com/rahulakrishna"}
-    - {name: "twitter", link: "https://twitter.com/rahulakrishna"}
-    - {name: "site", link: "https://rahulakrishna.github.io"}
 -
   id: 2
   name: "Ujjwal"
@@ -82,6 +40,20 @@
     - {name: "twitter", link: "https://twitter.com/singh_aalind"}
     - {name: "github", link: "https://github.com/aalind0"}
     - {name: "site", link: "https://aalind0.github.io/"}
+-
+  id: 1
+  name: "Rahul"
+  surname: "Krishna"
+  title: "Web Developer"
+  thumbnailUrl: Rahul.jpg
+  team: true
+  ribbon:
+    - {abbr: "GDG", title: "Google Developer Group"}
+  social:
+    - {name: "google-plus", link: "https://plus.google.com/+RahulAKrishna"}
+    - {name: "github", link: "https://github.com/rahulakrishna"}
+    - {name: "twitter", link: "https://twitter.com/rahulakrishna"}
+    - {name: "site", link: "https://rahulakrishna.github.io"}
 -
   id: 5
   name: "Balaji"
@@ -167,53 +139,11 @@
     - {name: "github", link: "https://github.com/aalind0"}
     - {name: "site", link: "https://aalind0.github.io/"}
 -
-  id: 12
-  name: "Shbhodeep"
-  surname: "Mukherjee"
-  title: "Gopher"
-  thumbnailUrl: Shubhodeep.jpg
-  team: true
-  ribbon:
-    - {abbr: "GDG", title: "Google Developer Group"}
-  social:
-    - {name: "google-plus", link: "https://plus.google.com/109761365400418435629"}
-    - {name: "twitter", link: "https://twitter.com/singh_aalind"}
-    - {name: "github", link: "https://github.com/aalind0"}
-    - {name: "site", link: "https://aalind0.github.io/"}
--
   id: 13
   name: "Shuvam"
   surname: "Ghosh"
   title: "Android"
   thumbnailUrl: shuvam.png
-  team: true
-  ribbon:
-    - {abbr: "GDG", title: "Google Developer Group"}
-  social:
-    - {name: "google-plus", link: "https://plus.google.com/109761365400418435629"}
-    - {name: "twitter", link: "https://twitter.com/singh_aalind"}
-    - {name: "github", link: "https://github.com/aalind0"}
-    - {name: "site", link: "https://aalind0.github.io/"}
--
-  id: 14
-  name: "Yash"
-  surname: "Mahajan"
-  title: "Web"
-  thumbnailUrl: Yash.jpg
-  team: true
-  ribbon:
-    - {abbr: "GDG", title: "Google Developer Group"}
-  social:
-    - {name: "google-plus", link: "https://plus.google.com/109761365400418435629"}
-    - {name: "twitter", link: "https://twitter.com/singh_aalind"}
-    - {name: "github", link: "https://github.com/aalind0"}
-    - {name: "site", link: "https://aalind0.github.io/"}
--
-  id: 15
-  name: "Yash"
-  surname: "Shah"
-  title: "Algorithms"
-  thumbnailUrl: YashShah.jpg
   team: true
   ribbon:
     - {abbr: "GDG", title: "Google Developer Group"}
@@ -251,71 +181,31 @@
     - {name: "github", link: "https://github.com/aalind0"}
     - {name: "site", link: "https://aalind0.github.io/"}
 -
-  id: 4
-  name: "Anmol"
-  surname: ""
+  id: 23
+  name: "Vinayak"
+  surname: "Jhunjhunwala"
   title: "Management"
-  thumbnailUrl: Anmol.jpg
-  subTeam: true
-  social:
-    - {name: "twitter", link: "https://twitter.com/singh_aalind"}
-    - {name: "site", link: "https://aalind0.github.io/"}
--
-  id: 7
-  name: "Vaishali"
-  surname: ""
-  title: "Management"
-  thumbnailUrl: Vaishali.jpg
+  thumbnailUrl: Vinayak.jpg
   subTeam: true
   social:
     - {name: "twitter", link: "https://twitter.com/singh_aalind"}
     - {name: "site", link: "https://aalind0.github.io/"}
 -
   id: 16
-  name: "Abhitej"
-  surname: "Singh"
+  name: "Siddharth"
+  surname: "Kola"
   title: "Management"
-  thumbnailUrl: Abhitej.jpg
+  thumbnailUrl: sidd.jpg
   subTeam: true
   social:
     - {name: "twitter", link: "https://twitter.com/singh_aalind"}
     - {name: "site", link: "https://aalind0.github.io/"}
 -
   id: 17
-  name: "Siddhant"
-  surname: "Bhatter"
+  name: "Anshaj"
+  surname: "Khare"
   title: "Management"
-  thumbnailUrl: Bhatter.jpg
-  subTeam: true
-  social:
-    - {name: "twitter", link: "https://twitter.com/singh_aalind"}
-    - {name: "site", link: "https://aalind0.github.io/"}
--
-  id: 18
-  name: "Harshit"
-  surname: ""
-  title: "Managemen"
-  thumbnailUrl: Harshit.jpg
-  subTeam: true
-  social:
-    - {name: "twitter", link: "https://twitter.com/singh_aalind"}
-    - {name: "site", link: "https://aalind0.github.io/"}
--
-  id: 19
-  name: "Jahnavi"
-  surname: ""
-  title: "Management"
-  thumbnailUrl: Jahnavi.jpg
-  subTeam: true
-  social:
-    - {name: "twitter", link: "https://twitter.com/singh_aalind"}
-    - {name: "site", link: "https://aalind0.github.io/"}
--
-  id: 20
-  name: "Madhur"
-  surname: "Satija"
-  title: "Management"
-  thumbnailUrl: Madhur.JPG
+  thumbnailUrl: anshaj.jpg
   subTeam: true
   social:
     - {name: "twitter", link: "https://twitter.com/singh_aalind"}
@@ -330,23 +220,4 @@
   social:
     - {name: "twitter", link: "https://twitter.com/singh_aalind"}
     - {name: "site", link: "https://aalind0.github.io/"}
--
-  id: 22
-  name: "Soham"
-  surname: ""
-  title: "Management"
-  thumbnailUrl: Soham.jpg
-  subTeam: true
-  social:
-    - {name: "twitter", link: "https://twitter.com/singh_aalind"}
-    - {name: "site", link: "https://aalind0.github.io/"}
--
-  id: 23
-  name: "Vinayak"
-  surname: "Jhunjhunwala"
-  title: "Management"
-  thumbnailUrl: Vinayak.jpg
-  subTeam: true
-  social:
-    - {name: "twitter", link: "https://twitter.com/singh_aalind"}
-    - {name: "site", link: "https://aalind0.github.io/"}
+
