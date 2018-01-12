@@ -1,22 +1,22 @@
 -
   id: 3
-  name: "Nikhil"
-  surname: "Kasukurthi"
+  name: "Ujjwal"
+  surname: "Verma"
   company: "President"
   title: ""
   bio: "GDG-VIT's president. Takes care of all the tasks from tech to managing events."
-  thumbnailUrl: nikhil.jpg
+  thumbnailUrl: Ujjwal.jpg
   rockstar: true
   social:
     - {name: "google-plus", link: "https://plus.google.com/+DawidOstrowski/"}
 -
   id: 4
-  name: "Ashwini"
-  surname: "Purohit"
+  name: "Aalind"
+  surname: "Singh"
   company: "Vice President(Technical)"
   title: "Technical"
   bio: "Ashwini's bio"
-  thumbnailUrl: ashwini.jpg
+  thumbnailUrl: Aalind.jpg
   rockstar: true
   ribbon:
     - {abbr: "GDG", title: "Google Developer Group", url: "https://developers.google.com/groups/chapter/107562802227561437057/"}
@@ -26,12 +26,12 @@
     - {name: "github", link: "https://github.com/dmytrodanylyk"}
 -
   id: 5
-  name: "Rishi"
-  surname: "Raj"
+  name: "Ujjwal"
+  surname: "Ayyangar"
   company: "Vice President(Technical)"
   title: "Technical"
   bio: "Rishi raj's bio"
-  thumbnailUrl: rishiraj.jpg
+  thumbnailUrl: Ayyangar.jpg
   rockstar: true
   ribbon:
     - {abbr: "GDG", title: "Google Developer Group", url: "https://developers.google.com/groups/chapter/107562802227561437057/"}
@@ -40,12 +40,12 @@
     - {name: "twitter", link: "https://twitter.com/mherych"}
 -
   id: 6
-  name: "Shiv"
-  surname: "Bidani"
+  name: "Rohan"
+  surname: "Prasad"
   company: "Vice President(Management)"
   title: "Management"
   bio: "Shiv's bio."
-  thumbnailUrl: shiv.jpg
+  thumbnailUrl: RohanPrasad.jpg
   rockstar: true
   ribbon:
     - {abbr: "GDG", title: "Google Developer Group", url: "https://developers.google.com/groups/chapter/110301321530950732281/"}
@@ -54,12 +54,12 @@
     - {name: "twitter", link: "http://twitter.com/roman_mazur"}
 -
   id: 7
-  name: "Abhinav"
-  surname: "Das"
-  company: "Project Lead(Technical)"
-  title: "Technical"
+  name: "Vinayak"
+  surname: "Jhunjhunwala"
+  company: "Management Co-Lead"
+  title: "Management"
   bio: "Abhinav's bio."
-  thumbnailUrl: abhinav.jpg
+  thumbnailUrl: Vinayak.jpg
   rockstar: true
   ribbon:
     - {abbr: "GDG", title: "Google Developer Group", url: "https://developers.google.com/groups/chapter/110301321530950732281/"}
@@ -68,12 +68,12 @@
     - {name: "site", link: "http://olostan.name/"}
 -
   id: 8
-  name: "Saumya"
-  surname: "Bakshi"
-  company: "Editorial Lead"
+  name: "Siddharth"
+  surname: "Kola"
+  company: "Operations Lead"
   title: "Management"
   bio: "Saumya's Bio."
-  thumbnailUrl: saumya.jpg
+  thumbnailUrl: sidd.jpg
   rockstar: true
   ribbon:
     - {abbr: "GDG", title: "Google Developer Group", url: "https://developers.google.com/groups/chapter/110301321530950732281/"}
@@ -82,12 +82,12 @@
     - {name: "site", link: "http://olostan.name/"}
 -
   id: 9
-  name: "Shanya"
-  surname: "Verma"
-  company: "Operations Lead"
+  name: "Rishab"
+  surname: "Taneja"
+  company: "Management Analyst"
   title: "Management"
   bio: "Shanya's Bio."
-  thumbnailUrl: shanya.jpg
+  thumbnailUrl: RishabTaneja.jpg
   rockstar: true
   ribbon:
     - {abbr: "GDG", title: "Google Developer Group", url: "https://developers.google.com/groups/chapter/110301321530950732281/"}
@@ -96,12 +96,12 @@
     - {name: "site", link: "http://olostan.name/"}
 -
   id: 10
-  name: "Shubhanjan"
-  surname: "Chakraborty"
-  company: "Marketing Lead"
+  name: "Anshaj"
+  surname: "Khare"
+  company: "Public Relations Lead"
   title: "Management"
   bio: "Shubhanjan's Bio."
-  thumbnailUrl: sunny.jpg
+  thumbnailUrl: anshaj.jpg
   rockstar: true
   ribbon:
     - {abbr: "GDG", title: "Google Developer Group", url: "https://developers.google.com/groups/chapter/110301321530950732281/"}
@@ -110,12 +110,12 @@
     - {name: "site", link: "http://olostan.name/"}
 -
   id: 11
-  name: "Shimona"
-  surname: "Bordia"
+  name: "Akanshi"
+  surname: "Srivastava"
   company: "WTM Lead"
   title: ""
   bio: "Shimona's bio."
-  thumbnailUrl: shimona.jpg
+  thumbnailUrl: AKANSHI.jpg
   rockstar: true
   ribbon:
     - {abbr: "GDG", title: "Google Developer Group", url: "https://developers.google.com/groups/chapter/110301321530950732281/"}
