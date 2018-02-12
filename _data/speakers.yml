@@ -124,12 +124,12 @@
     - {name: "site", link: "http://olostan.name/"}
 -
   id: 11
-  name: "Akanshi"
-  surname: "Srivastava"
-  company: "WTM Lead"
+  name: "Rishab"
+  surname: "Taneja"
+  company: "Management Analyst"
   title: ""
   bio: "Shimona's bio."
-  thumbnailUrl: AKANSHI.jpg
+  thumbnailUrl: Rishab.jpg
   rockstar: true
   ribbon:
     - {abbr: "GDG", title: "Google Developer Group", url: "https://developers.google.com/groups/chapter/110301321530950732281/"}
