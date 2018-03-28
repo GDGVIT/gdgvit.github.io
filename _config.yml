@@ -51,7 +51,7 @@ navigationLinks:
 bottomNavigationLinks:
  - {link: "http://ideas.gdgvitvellore.com", text: "Submit a Project Idea"}
 rightNavigationButtons:
- - {link: "http://ideas.gdgvitvellore.com", text: "Submit a Project Idea"}
+ - {link: "http://ideas.dscvit.com", text: "Submit a Project Idea"}
 
 # Hero Block
 heroImage: "hero.jpg"
@@ -61,7 +61,7 @@ typeoutTextValues: '"", "made MyVIT", "made SharePaper", "made Relief Chennai", 
 typeoutFallback: "innovates"
 heroButtons:
  - {permalink: "/#contact", text: "Contact Us"}
- - {link: "http://ideas.gdgvitvellore.com", text: "Submit a Project Idea"}
+ - {link: "http://ideas.dscvit.com", text: "Submit a Project Idea"}
 
 # About Block
 aboutTitle: "About GDG VIT Vellore"
