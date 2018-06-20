@@ -11,9 +11,9 @@ exclude: ['/automation/', 'README.md', 'LICENSE.txt', 'CNAME']
 
 # Site Settings
 title: "GDG-VIT Vellore"
-email: "gdgvitvellore@gmail.com"
+email: "dscvitvellore@gmail.com"
 description: "GDG-VIT Vellore"
-#baseurl: "http://gdgvitvellore.com"
+#baseurl: "https://dscvit.com"
 baseurl: ""
 url: "https://gdgvit.github.io"
 permalink: "/blog/:title"
@@ -22,12 +22,12 @@ googleAnalyticsSiteUrl: ""
 siteVerification: ""
 
 # Organizer Info
-organizerName: "GDG VIT Vellore"
+organizerName: "DSC VIT Vellore"
 organizerAlternateName: "Google Developer Group VIT Vellore"
 organizerDescription: "Open and volunteer geek communities who create exciting projects and share experience about Google technology with passion."
-organizerEmail: "gdgvitvellore@gmail.com"
+organizerEmail: "dscvitvellore@gmail.com"
 organizerLogo: "/img/seo/organizer-logo.png"
-organizerLink: "http://gdgvitvellore.com"
+organizerLink: "https://dscvit.com"
 
 # Head
 metaKeywords: "gdg, vit, devfest, google, programming, android, chrome, developers, vellore"
@@ -44,19 +44,19 @@ c4sponsorsUrl: "/assets/GDG_DevFest_Partnership.pdf"
 # Navigation
 navigationLinks:
  - {permalink: "/", text: "Home"}
- - {link: "http://blog.gdgvitvellore.com", text: "Blog"}
+ - {link: "http://blog.dscvit.com", text: "Blog"}
  - {permalink: "/schedule/", text: "Events"}
  - {permalink: "/organizers/", text: "Organizers"}
  - {permalink: "/team/", text: "Team"}
 bottomNavigationLinks:
- - {link: "http://ideas.gdgvitvellore.com", text: "Submit a Project Idea"}
+ - {link: "http://ideas.dscvit.com", text: "Submit a Project Idea"}
 rightNavigationButtons:
  - {link: "http://ideas.dscvit.com", text: "Submit a Project Idea"}
 
 # Hero Block
 heroImage: "hero.jpg"
 heroTitle: "Meet the team that <typeout>"
-eventDate: "GDG VIT Vellore"
+eventDate: "DSC VIT Vellore"
 typeoutTextValues: '"", "made MyVIT", "made SharePaper", "made Relief Chennai", "conducts Devfests", "hosts Google I/O extended","really does work in VIT","made VOLSBB Onetouch","made MyFFCS"'
 typeoutFallback: "innovates"
 heroButtons:
@@ -64,7 +64,7 @@ heroButtons:
  - {link: "http://ideas.dscvit.com", text: "Submit a Project Idea"}
 
 # About Block
-aboutTitle: "About GDG VIT Vellore"
+aboutTitle: "About DSC VIT Vellore"
 aboutBlock:
  - {title: "Events", image: "conference.jpg", text: "All the biggest Google related events extended including the Devfest, Google I/O and Google Cloudnext Summit" }
  - {title: "Workshops", image: "workshop.jpg", text: "Full-day of workshops, hands-on experience, hacking and debugging. Come and tame your favourite technology!" }
@@ -116,7 +116,7 @@ venueFeatures: ["3 huge cinema screens", "Doulby Digital Surround EX audio syste
 # Tweets Feed Block
 tweetsFeedImage: "twitter-feed.jpg"
 tweetsFeedTitle: "What's Up?"
-twitterHashTag: "gdgvit"
+twitterHashTag: "dscvit"
 twitterFeed: ""
 
 # Partners Block
@@ -182,12 +182,12 @@ footerBlocks:
  -
   title: "Links"
   links:
-   - {link: "http://gdgvitvellore.com", text: "GDG VIT Vellore"}
+   - {link: "https://dscvit.com", text: "DSC VIT Vellore"}
    - {link: "https://developers.google.com", text: "Google Developers"}
  -
   title: "Contacts"
   links:
-   - {link: "mailto:gdgvitvellore@gmail.com", text: "gdgvitvellore@gmail.com"}
+   - {link: "mailto:dscvitvellore@gmail.com", text: "dscvitvellore@gmail.com"}
  -
   title: "Privacy"
   links:
