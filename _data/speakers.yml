@@ -4,7 +4,7 @@
   surname: "Verma"
   company: "President"
   title: ""
-  bio: "GDG-VIT's president. Takes care of all the tasks from tech to managing events."
+  bio: "DSC-VIT's president. Takes care of all the tasks from tech to managing events."
   thumbnailUrl: Ujjwal.jpg
   rockstar: true
   social:
@@ -15,127 +15,117 @@
   surname: "Singh"
   company: "Vice President(Technical)"
   title: "Technical"
-  bio: "Ashwini's bio"
   thumbnailUrl: Aalind.jpg
   rockstar: true
   ribbon:
-    - {abbr: "GDG", title: "Google Developer Group", url: "https://developers.google.com/groups/chapter/107562802227561437057/"}
+    - {abbr: "DSC", title: "Developer Student Club", url: "https://developers.google.com/groups/chapter/107562802227561437057/"}
   social:
     - {name: "google-plus", link: "https://plus.google.com/+DmytroDanylyk"}
     - {name: "twitter", link: "https://twitter.com/dmytrodanylyk"}
     - {name: "github", link: "https://github.com/dmytrodanylyk"}
 -
   id: 5
-  name: "Ujjwal"
-  surname: "Ayyangar"
-  company: "Vice President(Technical)"
-  title: "Technical"
-  bio: "Rishi raj's bio"
-  thumbnailUrl: Ayyangar.jpg
-  rockstar: true
-  ribbon:
-    - {abbr: "GDG", title: "Google Developer Group", url: "https://developers.google.com/groups/chapter/107562802227561437057/"}
-  social:
-    - {name: "google-plus", link: "https://plus.google.com/+MateuszHerych"}
-    - {name: "twitter", link: "https://twitter.com/mherych"}
--
-  id: 6
-  name: "Rohan"
-  surname: "Prasad"
-  company: "Vice President(Management)"
+  name: "Vinayak"
+  surname: "Jhunjhunwala"
+  company: "Management Co-Lead"
   title: "Management"
-  bio: "Shiv's bio."
-  thumbnailUrl: RohanPrasad.jpg
+  thumbnailUrl: Vinayak.jpg
   rockstar: true
   ribbon:
-    - {abbr: "GDG", title: "Google Developer Group", url: "https://developers.google.com/groups/chapter/110301321530950732281/"}
+    - {abbr: "DSC", title: "Developer Student Club", url: "https://developers.google.com/groups/chapter/110301321530950732281/"}
   social:
-    - {name: "google-plus", link: "https://plus.google.com/+RomanMazur/"}
-    - {name: "twitter", link: "http://twitter.com/roman_mazur"}
+    - {name: "google-plus", link: "https://google.com/+ValentynShybanov"}
+    - {name: "site", link: "http://olostan.name/"}
 -
   id: 11
-  name: "Rishab"
-  surname: "Taneja"
-  company: "Management Analyst"
-  title: ""
-  bio: "Shimona's bio."
-  thumbnailUrl: Rishab.jpg
+  name: "Anshaj"
+  surname: "Khare"
+  company: "Public Relations Lead"
+  title: "Management"
+  thumbnailUrl: anshaj.jpg
   rockstar: true
   ribbon:
-    - {abbr: "GDG", title: "Google Developer Group", url: "https://developers.google.com/groups/chapter/110301321530950732281/"}
+    - {abbr: "DSC", title: "Developer Student Club", url: "https://developers.google.com/groups/chapter/110301321530950732281/"}
   social:
     - {name: "google-plus", link: "https://google.com/+ValentynShybanov"}
     - {name: "site", link: "http://olostan.name/"}
 -
   id: 9
-  name: "Shubham"
-  surname: "Bharadwaj"
-  company: "Research & Development Lead"
-  title: "Management"
-  bio: "Shanya's Bio."
-  thumbnailUrl: Shubham.jpg
+  name: "Rajat"
+  surname: "Mukati"
+  company: "Design Head"
+  title: "Design"
+  thumbnailUrl: Rajat.jpg
   rockstar: true
   ribbon:
-    - {abbr: "GDG", title: "Google Developer Group", url: "https://developers.google.com/groups/chapter/110301321530950732281/"}
+    - {abbr: "DSC", title: "Developer Student Club", url: "https://developers.google.com/groups/chapter/110301321530950732281/"}
   social:
     - {name: "google-plus", link: "https://google.com/+ValentynShybanov"}
     - {name: "site", link: "http://olostan.name/"}
 -
   id: 8
-  name: "Siddharth"
-  surname: "Kola"
-  company: "Operations Lead"
+  name: "Shubham"
+  surname: "Bharadwaj"
+  company: "Research & Development Lead"
   title: "Management"
-  bio: "Saumya's Bio."
-  thumbnailUrl: sidd.jpg
+  thumbnailUrl: Shubham.jpg
   rockstar: true
   ribbon:
-    - {abbr: "GDG", title: "Google Developer Group", url: "https://developers.google.com/groups/chapter/110301321530950732281/"}
+    - {abbr: "DSC", title: "Developer Student Club", url: "https://developers.google.com/groups/chapter/110301321530950732281/"}
   social:
     - {name: "google-plus", link: "https://google.com/+ValentynShybanov"}
     - {name: "site", link: "http://olostan.name/"}
 -
   id: 10
-  name: "Anshaj"
-  surname: "Khare"
-  company: "Public Relations Lead"
-  title: "Management"
-  bio: "Shubhanjan's Bio."
-  thumbnailUrl: anshaj.jpg
+  name: "Rishab"
+  surname: "Taneja"
+  company: "Management Analyst"
+  title: ""
+  thumbnailUrl: Rishab.jpg
   rockstar: true
   ribbon:
-    - {abbr: "GDG", title: "Google Developer Group", url: "https://developers.google.com/groups/chapter/110301321530950732281/"}
+    - {abbr: "DSC", title: "Developer Student Club", url: "https://developers.google.com/groups/chapter/110301321530950732281/"}
   social:
     - {name: "google-plus", link: "https://google.com/+ValentynShybanov"}
     - {name: "site", link: "http://olostan.name/"}
 -
   id: 12
-  name: "Rajat"
-  surname: "Mukati"
-  company: "Design Head"
-  title: "Design"
-  bio: "Shubhanjan's Bio."
-  thumbnailUrl: Rajat.jpg
-  rockstar: true
-  ribbon:
-    - {abbr: "GDG", title: "Google Developer Group", url: "https://developers.google.com/groups/chapter/110301321530950732281/"}
-  social:
-    - {name: "google-plus", link: "https://google.com/+ValentynShybanov"}
-    - {name: "site", link: "http://olostan.name/"}
--
- 
-    
-  id: 7
-  name: "Vinayak"
-  surname: "Jhunjhunwala"
-  company: "Management Co-Lead"
+  name: "Rohan"
+  surname: "Prasad"
+  company: "Vice President(Management)"
   title: "Management"
-  bio: "Abhinav's bio."
-  thumbnailUrl: Vinayak.jpg
+  thumbnailUrl: RohanPrasad.jpg
   rockstar: true
   ribbon:
-    - {abbr: "GDG", title: "Google Developer Group", url: "https://developers.google.com/groups/chapter/110301321530950732281/"}
+    - {abbr: "DSC", title: "Developer Student Club", url: "https://developers.google.com/groups/chapter/110301321530950732281/"}
+  social:
+    - {name: "google-plus", link: "https://plus.google.com/+RomanMazur/"}
+    - {name: "twitter", link: "http://twitter.com/roman_mazur"}
+-
+
+
+  id: 7
+  name: "Ujjwal"
+  surname: "Ayyangar"
+  company: "Vice President(Technical)"
+  title: "Technical"
+  thumbnailUrl: Ayyangar.jpg
+  rockstar: true
+  ribbon:
+    - {abbr: "DSC", title: "Developer Student Club", url: "https://developers.google.com/groups/chapter/107562802227561437057/"}
+  social:
+    - {name: "google-plus", link: "https://plus.google.com/+MateuszHerych"}
+    - {name: "twitter", link: "https://twitter.com/mherych"}
+-
+  id: 6
+  name: "Siddharth"
+  surname: "Kola"
+  company: "Operations Lead"
+  title: "Management"
+  thumbnailUrl: sidd.jpg
+  rockstar: true
+  ribbon:
+    - {abbr: "DSC", title: "Developer Student Club", url: "https://developers.google.com/groups/chapter/110301321530950732281/"}
   social:
     - {name: "google-plus", link: "https://google.com/+ValentynShybanov"}
     - {name: "site", link: "http://olostan.name/"}
-

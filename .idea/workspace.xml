@@ -1,7 +1,27 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="a301ec39-69c9-461d-aa81-2d8df2cd91e9" name="Default" comment="" />
+    <list default="true" id="a301ec39-69c9-461d-aa81-2d8df2cd91e9" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Gemfile.lock" beforeDir="false" afterPath="$PROJECT_DIR$/Gemfile.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_config.yml" beforeDir="false" afterPath="$PROJECT_DIR$/_config.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_data/speakers.yml" beforeDir="false" afterPath="$PROJECT_DIR$/_data/speakers.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/Gemfile.lock" beforeDir="false" afterPath="$PROJECT_DIR$/_site/Gemfile.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/blog/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/blog/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/cod/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/cod/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/css/main.css" beforeDir="false" afterPath="$PROJECT_DIR$/_site/css/main.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/hackathon/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/hackathon/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/img/people/Aalind.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/_site/img/people/Aalind.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/img/people/RishabTaneja.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/img/sprites/logos.png" beforeDir="false" afterPath="$PROJECT_DIR$/_site/img/sprites/logos.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/logistics/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/logistics/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/organizers/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/organizers/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/schedule/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/schedule/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/sitemap.xml" beforeDir="false" afterPath="$PROJECT_DIR$/_site/sitemap.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/team/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/team/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/main.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/main.css" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
     <ignored path="$PROJECT_DIR$/tmp/" />
@@ -14,60 +34,107 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="logo-big.png" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/img/other/logo-big.png">
-          <provider selected="true" editor-type-id="images" />
+      <file leaf-file-name="about.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/_includes/about.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="378">
+              <caret line="21" selection-start-line="21" selection-end-line="21" />
+            </state>
+          </provider>
         </entry>
       </file>
-      <file leaf-file-name="gdg-lviv.svg" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/img/partners/gdg-lviv.svg">
-          <provider selected="true" editor-type-id="images" />
+      <file leaf-file-name="_config.yml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/_config.yml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-108">
+              <caret column="9" lean-forward="true" selection-start-column="9" selection-end-column="9" />
+            </state>
+          </provider>
         </entry>
       </file>
-      <file leaf-file-name="gdg-x.svg" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/img/partners/gdg-x.svg">
-          <provider selected="true" editor-type-id="images" />
+      <file leaf-file-name="judges.yml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/_data/judges.yml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="176">
+              <caret line="27" column="22" selection-start-line="27" selection-start-column="19" selection-end-line="27" selection-end-column="22" />
+            </state>
+          </provider>
         </entry>
       </file>
-      <file leaf-file-name="google.svg" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/img/partners/google.svg">
-          <provider selected="true" editor-type-id="images" />
+      <file leaf-file-name="organizers.yml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/_data/organizers.yml">
+          <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
-      <file leaf-file-name="uzhhorod-it.svg" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/img/partners/uzhhorod-it.svg">
-          <provider selected="true" editor-type-id="images" />
+      <file leaf-file-name="partners.yml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/_data/partners.yml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="180">
+              <caret line="10" column="99" selection-start-line="10" selection-start-column="96" selection-end-line="10" selection-end-column="99" />
+            </state>
+          </provider>
         </entry>
       </file>
-      <file leaf-file-name="sprites.svg" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/img/sprites/sprites.svg">
-          <provider selected="true" editor-type-id="images" />
+      <file leaf-file-name="schedule.yml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/_data/schedule.yml">
+          <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
-      <file leaf-file-name="logos.svg" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/img/sprites/logos.svg">
-          <provider selected="true" editor-type-id="images" />
+      <file leaf-file-name="sessions.yml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/_data/sessions.yml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-479" />
+          </provider>
         </entry>
       </file>
-      <file leaf-file-name="logos.png" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/img/sprites/logos.png">
-          <provider selected="true" editor-type-id="images" />
+      <file leaf-file-name="speakers.yml" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/_data/speakers.yml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="254">
+              <caret line="119" column="7" lean-forward="true" selection-start-line="119" selection-start-column="7" selection-end-line="119" selection-end-column="7" />
+            </state>
+          </provider>
         </entry>
       </file>
-      <file leaf-file-name="organizer-logo.png" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/img/sprites/organizer-logo.png">
-          <provider selected="true" editor-type-id="images" />
-        </entry>
-      </file>
-      <file leaf-file-name="map-marker.svg" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/img/other/map-marker.svg">
-          <provider selected="true" editor-type-id="images" />
+      <file leaf-file-name="team.yml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/_data/team.yml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="3150">
+              <caret line="175" column="9" lean-forward="true" selection-start-line="175" selection-start-column="9" selection-end-line="175" selection-end-column="9" />
+            </state>
+          </provider>
         </entry>
       </file>
     </leaf>
   </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>logo-footer</find>
+      <find>logo</find>
+      <find>mailto:gdgvitvellore@gmail.com</find>
+      <find>gdgvit</find>
+      <find>dscvit</find>
+      <find>Google Developer Group</find>
+      <find>GDG</find>
+      <find>gdg</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>DSC</replace>
+      <replace>dscvit</replace>
+      <replace>Developer Student Club</replace>
+    </replaceStrings>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/css/main.css" />
+        <option value="$PROJECT_DIR$/_config.yml" />
+        <option value="$PROJECT_DIR$/_data/speakers.yml" />
+      </list>
+    </option>
   </component>
   <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
   <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
@@ -78,7 +145,7 @@
   <component name="NodePackageJsonFileManager">
     <packageJsonPaths />
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="1919" />
     <option name="y" value="-4" />
     <option name="width" value="1922" />
@@ -177,10 +244,17 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
+    <property name="SearchEverywhereHistoryKey" value="vellore&#9;null&#9;null" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/img/sprites" />
+    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -204,34 +278,34 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1529509785871</updated>
-      <workItem from="1529509787837" duration="3013000" />
+      <workItem from="1529509787837" duration="8986000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="3013000" />
+    <option name="totallyTimeSpent" value="8986000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="1919" y="-4" width="1922" height="1085" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25" />
-      <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Event Log" side_tool="true" />
-      <window_info anchor="bottom" id="Run" order="2" />
-      <window_info anchor="bottom" id="Version Control" />
-      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Terminal" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
-      <window_info id="Favorites" side_tool="true" />
-      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info active="true" content_ui="combo" id="Project" order="1" visible="true" weight="0.25" />
+      <window_info anchor="bottom" id="TODO" order="10" />
+      <window_info anchor="bottom" id="Docker" order="0" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Event Log" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Find" order="5" />
+      <window_info anchor="bottom" id="Run" order="6" />
+      <window_info anchor="bottom" id="Version Control" order="3" />
+      <window_info id="Structure" order="2" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Terminal" order="1" visible="true" weight="0.2344086" />
+      <window_info anchor="bottom" id="Debug" order="7" weight="0.4" />
+      <window_info id="Favorites" order="0" side_tool="true" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="Inspection" order="9" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
-      <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Message" order="4" />
+      <window_info anchor="bottom" id="Cvs" order="8" weight="0.25" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -241,36 +315,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/img/people/thiya.jpg">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/img/people/Shubhodeep.jpg">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/img/people/Rishav.jpg">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/img/people/Rishi.JPG">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/img/people/Rishab.jpg">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/img/people/ramkishore.jpg">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/img/people/Jahnavi.jpg">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/img/people/IDK.jpg">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/img/people/Ashwini.jpg">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/img/organizers/gdg-cherkasy.svg">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/img/organizers/gdg-dnipropetrovsk.svg">
       <provider selected="true" editor-type-id="images" />
     </entry>
@@ -289,32 +333,11 @@
     <entry file="file://$PROJECT_DIR$/img/organizers/gdg-lviv.svg">
       <provider selected="true" editor-type-id="images" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/_data/sessions.yml">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_data/organizers.yml">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_data/speakers.yml">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/feed.xml">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_data/partners.yml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="10" column="79" selection-start-line="10" selection-start-column="77" selection-end-line="10" selection-end-column="101" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_data/team.yml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-3250" />
-      </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/coc.html">
       <provider selected="true" editor-type-id="text-editor">
@@ -324,9 +347,6 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/css/main.js">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/css/main.css">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/img/venue/venue_0.jpg">
@@ -403,6 +423,91 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/img/sprites/logos.png">
       <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
+        <state split_layout="SPLIT">
+          <first_editor />
+          <second_editor>
+            <markdownNavigatorState />
+          </second_editor>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Gemfile">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/main.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="219">
+          <caret line="2853" lean-forward="true" selection-start-line="2853" selection-end-line="2853" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_includes/about-hackathon.html">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_data/judges.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="176">
+          <caret line="27" column="22" selection-start-line="27" selection-start-column="19" selection-end-line="27" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_data/partners.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="10" column="99" selection-start-line="10" selection-start-column="96" selection-end-line="10" selection-end-column="99" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_data/sessions.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-479" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_data/team.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3150">
+          <caret line="175" column="9" lean-forward="true" selection-start-line="175" selection-start-column="9" selection-end-line="175" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_data/organizers.yml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_includes/about.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="378">
+          <caret line="21" selection-start-line="21" selection-end-line="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_config.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-108">
+          <caret column="9" lean-forward="true" selection-start-column="9" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/config.rb">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/speakers.html">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/team.html">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_data/schedule.yml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_data/speakers.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="254">
+          <caret line="119" column="7" lean-forward="true" selection-start-line="119" selection-start-column="7" selection-end-line="119" selection-end-column="7" />
+        </state>
+      </provider>
     </entry>
   </component>
 </project>
