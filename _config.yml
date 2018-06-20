@@ -10,7 +10,7 @@ exclude: ['/automation/', 'README.md', 'LICENSE.txt', 'CNAME']
 
 
 # Site Settings
-title: "GDG-VIT Vellore"
+title: "DSC-VIT Vellore"
 email: "dscvitvellore@gmail.com"
 description: "GDG-VIT Vellore"
 #baseurl: "https://dscvit.com"
