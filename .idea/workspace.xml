@@ -2,24 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a301ec39-69c9-461d-aa81-2d8df2cd91e9" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Gemfile.lock" beforeDir="false" afterPath="$PROJECT_DIR$/Gemfile.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_config.yml" beforeDir="false" afterPath="$PROJECT_DIR$/_config.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_data/speakers.yml" beforeDir="false" afterPath="$PROJECT_DIR$/_data/speakers.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/Gemfile.lock" beforeDir="false" afterPath="$PROJECT_DIR$/_site/Gemfile.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/blog/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/blog/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/cod/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/cod/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/css/main.css" beforeDir="false" afterPath="$PROJECT_DIR$/_site/css/main.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/hackathon/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/hackathon/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/img/people/Aalind.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/_site/img/people/Aalind.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/img/people/RishabTaneja.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/img/sprites/logos.png" beforeDir="false" afterPath="$PROJECT_DIR$/_site/img/sprites/logos.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/logistics/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/logistics/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/organizers/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/organizers/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/schedule/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/schedule/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/sitemap.xml" beforeDir="false" afterPath="$PROJECT_DIR$/_site/sitemap.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/team/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/team/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/css/main.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/main.css" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
@@ -87,11 +69,20 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="speakers.yml" pinned="false" current-in-tab="true">
+      <file leaf-file-name="speakers.yml" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/_data/speakers.yml">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="254">
               <caret line="119" column="7" lean-forward="true" selection-start-line="119" selection-start-column="7" selection-end-line="119" selection-end-column="7" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="main.css" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/css/main.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret column="43234" selection-start-column="43234" selection-end-column="43234" />
             </state>
           </provider>
         </entry>
@@ -117,6 +108,8 @@
       <find>Google Developer Group</find>
       <find>GDG</find>
       <find>gdg</find>
+      <find>bio</find>
+      <find>.logo.logo-gray</find>
     </findStrings>
     <replaceStrings>
       <replace>DSC</replace>
@@ -130,9 +123,9 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/css/main.css" />
         <option value="$PROJECT_DIR$/_config.yml" />
         <option value="$PROJECT_DIR$/_data/speakers.yml" />
+        <option value="$PROJECT_DIR$/css/main.css" />
       </list>
     </option>
   </component>
@@ -278,12 +271,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1529509785871</updated>
-      <workItem from="1529509787837" duration="8986000" />
+      <workItem from="1529509787837" duration="9464000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="8986000" />
+    <option name="totallyTimeSpent" value="9464000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="1919" y="-4" width="1922" height="1085" extended-state="6" />
@@ -437,13 +430,6 @@
     <entry file="file://$PROJECT_DIR$/Gemfile">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/css/main.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="219">
-          <caret line="2853" lean-forward="true" selection-start-line="2853" selection-end-line="2853" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/_includes/about-hackathon.html">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
@@ -506,6 +492,13 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="254">
           <caret line="119" column="7" lean-forward="true" selection-start-line="119" selection-start-column="7" selection-end-line="119" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/main.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="43234" selection-start-column="43234" selection-end-column="43234" />
         </state>
       </provider>
     </entry>
