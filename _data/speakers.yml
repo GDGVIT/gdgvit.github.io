@@ -1,21 +1,25 @@
 -
   id: 3
-  name: "Ujjwal"
-  surname: "Verma"
-  company: "President"
+  name: "Samarth"
+  surname: ""
+  company: "Community Lead"
   title: ""
-  bio: "DSC-VIT's president. Takes care of all the tasks from tech to managing events."
-  thumbnailUrl: Ujjwal.jpg
+  bio: "Think of any pending work and you'll find this guy as one of the first initiators. Presenting to all, the community lead of DSC VIT 2018-19, Samarth Nayyar. Samarth is one of the efficient developers when it comes to building projects using interactive graphic design, UI/UX and animation using motion. He has integrated many front end projects using various JS libraries and react native. Being a pro at bringing the team together for fun as well as work, Samarth himself contributes to the design as well as the management team of DSC. Not to be mentioned, he is one of the most humble men in power who would make everyone in the team feel comfortable.
+"
+  thumbnailUrl: samarth.jpg
+  ribbon:
+      - {abbr: "DSC", title: "Developer Student Club", url: "https://developers.google.com/groups/chapter/110301321530950732281/"}
   rockstar: true
   social:
     - {name: "google-plus", link: "https://plus.google.com/+DawidOstrowski/"}
 -
   id: 4
-  name: "Aalind"
-  surname: "Singh"
-  company: "Vice President(Technical)"
+  name: "Ayush"
+  surname: "Priya"
+  company: "Technical Lead"
   title: "Technical"
-  thumbnailUrl: Aalind.jpg
+  bio: "Whoever believes “You can not be perfect at everything” hasn’t met Ayush. A maestro in Cyber Security and experienced in a dozen other technical domains makes him a role model for the aspiring techies. His approach towards team integrity is what makes him interactive with not just the technical team, but all the members of the community."
+  thumbnailUrl: Ayush.jpg
   rockstar: true
   ribbon:
     - {abbr: "DSC", title: "Developer Student Club", url: "https://developers.google.com/groups/chapter/107562802227561437057/"}
@@ -25,12 +29,13 @@
     - {name: "github", link: "https://github.com/dmytrodanylyk"}
 -
   id: 5
-  name: "Vinayak"
-  surname: "Jhunjhunwala"
-  company: "Management Co-Lead"
+  name: "Jayakrishna "
+  surname: ""
+  company: "Management Lead"
   title: "Management"
-  thumbnailUrl: Vinayak.jpg
+  thumbnailUrl: JK.jpg
   rockstar: true
+  bio: " All work and no play makes Jack a dull boy, so why not be cheerful at work too? That's how our creative Management lead chooses to guide us! No doubt, all of us love his way of approaching group work. Jayakrishna has always been a great mentor whom we can reach out to, without any hesitation."
   ribbon:
     - {abbr: "DSC", title: "Developer Student Club", url: "https://developers.google.com/groups/chapter/110301321530950732281/"}
   social:
@@ -38,12 +43,14 @@
     - {name: "site", link: "http://olostan.name/"}
 -
   id: 11
-  name: "Anshaj"
-  surname: "Khare"
-  company: "Public Relations Lead"
-  title: "Management"
-  thumbnailUrl: anshaj.jpg
+  name: "Samyak"
+  surname: "Jain"
+  company: "Technical Lead"
+  title: "Technical"
+  thumbnailUrl: Samyak.jpg
   rockstar: true
+  bio: "'Jack of all trades, master of none' fails when Samyak comes in the picture. When it comes to talking, his skills do that for him. Apart from being an expert Web Developer, Samyak also has distinguished experience in DevOps. Samyak has a superpower of finding multiple solutions to a single problem and the awesomeness of that is all of them will work.
+"
   ribbon:
     - {abbr: "DSC", title: "Developer Student Club", url: "https://developers.google.com/groups/chapter/110301321530950732281/"}
   social:
@@ -51,12 +58,13 @@
     - {name: "site", link: "http://olostan.name/"}
 -
   id: 9
-  name: "Rajat"
-  surname: "Mukati"
-  company: "Design Head"
-  title: "Design"
-  thumbnailUrl: Rajat.jpg
+  name: "Akshay"
+  surname: ""
+  company: "Operations Lead"
+  title: "Management"
+  thumbnailUrl: Akshay.jpg
   rockstar: true
+  bio: "Whenever there’s a need for some work to be done, Akshay would always know a guy who knows a guy. Getting things done is his hobby, it seems. Akshay’s friendly and easy to get along with nature helps him to blend in with anyone. He is always looking to learn something new and feels networking and conversations are the keys to it."
   ribbon:
     - {abbr: "DSC", title: "Developer Student Club", url: "https://developers.google.com/groups/chapter/110301321530950732281/"}
   social:
@@ -64,11 +72,13 @@
     - {name: "site", link: "http://olostan.name/"}
 -
   id: 8
-  name: "Shubham"
-  surname: "Bharadwaj"
-  company: "Research & Development Lead"
+  name: "Preethi"
+  surname: "G"
+  company: "Outreach Lead"
   title: "Management"
-  thumbnailUrl: Shubham.jpg
+  bio: "‘A sweet girl with a responsible yet friendly character’ is what would define Preethi most accurately. She has been handling the outreach department quite well and brings-in more resources for expanding the DSC network. Working with her has to be a pleasant experience as she mingles with people so well!
+"
+  thumbnailUrl: Preethi.jpg
   rockstar: true
   ribbon:
     - {abbr: "DSC", title: "Developer Student Club", url: "https://developers.google.com/groups/chapter/110301321530950732281/"}
@@ -77,12 +87,13 @@
     - {name: "site", link: "http://olostan.name/"}
 -
   id: 10
-  name: "Rishab"
-  surname: "Taneja"
-  company: "Management Analyst"
+  name: "Amruth"
+  surname: "Phadke"
+  company: "Project Lead"
   title: ""
-  thumbnailUrl: Rishab.jpg
+  thumbnailUrl: Amrut.jpg
   rockstar: true
+  bio: "Amrut has a knack of stealing the show with his charismatic personality and his confident attitude. He is highly skilled in Backend, DevOps, ML and Game Development. His love for Coding and Mangoes leave all of us nothing but flabbergasted and musing. "
   ribbon:
     - {abbr: "DSC", title: "Developer Student Club", url: "https://developers.google.com/groups/chapter/110301321530950732281/"}
   social:
@@ -90,12 +101,14 @@
     - {name: "site", link: "http://olostan.name/"}
 -
   id: 12
-  name: "Rohan"
-  surname: "Prasad"
-  company: "Vice President(Management)"
-  title: "Management"
-  thumbnailUrl: RohanPrasad.jpg
+  name: "Abhishek "
+  surname: "Kaushik "
+  company: "Android Lead"
+  title: ""
+  thumbnailUrl: Abhishek.jpg
   rockstar: true
+  bio: "Abhishek, a photography geek, is our go-to guy for all things android! DSC VIT’s Android applications have been praised time and again for its clean UI, bug-free experience and creativity, and major credit for it goes to him. His cheerful and calm nature makes the other team members around him, comfortable and relaxed.
+"
   ribbon:
     - {abbr: "DSC", title: "Developer Student Club", url: "https://developers.google.com/groups/chapter/110301321530950732281/"}
   social:
@@ -105,12 +118,14 @@
 
 
   id: 7
-  name: "Ujjwal"
-  surname: "Ayyangar"
-  company: "Vice President(Technical)"
+  name: "Apurva "
+  surname: "Nitanjay "
+  company: "Projects Lead"
   title: "Technical"
-  thumbnailUrl: Ayyangar.jpg
+  thumbnailUrl: Apurv.jpg
   rockstar: true
+  bio: "Respected for his knowledge and practical skills, the Projects Lead at DSC takes hold of projects distribution and updates for the same. Apurva loves attempting new things, be it participating in a hack or trying on a totally different technology gradually. He is always the calm kind-of person in every team who will help you out whenever you get stuck while learning.
+"
   ribbon:
     - {abbr: "DSC", title: "Developer Student Club", url: "https://developers.google.com/groups/chapter/107562802227561437057/"}
   social:
@@ -118,12 +133,44 @@
     - {name: "twitter", link: "https://twitter.com/mherych"}
 -
   id: 6
-  name: "Siddharth"
-  surname: "Kola"
-  company: "Operations Lead"
-  title: "Management"
-  thumbnailUrl: sidd.jpg
+  name: "Dhiraj"
+  surname: " K. Jain"
+  company: "Technical Advisor"
+  title: "Technical"
+  thumbnailUrl: Dhiraj_Kumar_Jain.jpg
   rockstar: true
+  bio: "Dhiraj is an enthusiastic and energetic person with an optimistic approach towards the problems around him. He has been a part of several hackathons, locally and globally and has won a major chunk of them. He specializes in Android Development and has significant experience in Blockchain Development. His down to earth and simple personality makes conversations with him, interesting and learning.
+"
+  ribbon:
+    - {abbr: "DSC", title: "Developer Student Club", url: "https://developers.google.com/groups/chapter/110301321530950732281/"}
+  social:
+    - {name: "google-plus", link: "https://google.com/+ValentynShybanov"}
+    - {name: "site", link: "http://olostan.name/"}
+
+-
+  id: 1
+  name: "Raina "
+  surname: ""
+  company: "WTM Lead"
+  title: "Technical"
+  thumbnailUrl: Raina.jpg
+  rockstar: true
+  bio: "A great tech enthusiast and an even better leader, Raina has always wanted to bring in more girls to the field of projects. She clearly best fits her designation. She specialises in Android-based projects and applications. One always gets to learn a better way to approach various things during random discussions with her."
+  ribbon:
+    - {abbr: "DSC", title: "Developer Student Club", url: "https://developers.google.com/groups/chapter/110301321530950732281/"}
+  social:
+    - {name: "google-plus", link: "https://google.com/+ValentynShybanov"}
+    - {name: "site", link: "http://olostan.name/"}
+
+-
+  id: 2
+  name: "Aritro "
+  surname: ""
+  company: "Assoc. Design Lead"
+  title: "Design"
+  thumbnailUrl: Aritro.jpg
+  rockstar: true
+  bio: "Aritro is that guy who will always have a smile on his face! He is well experienced with iOS swift and specializes in Graphic Design. Artiro’s projects are known for a very clean and neat UI. His jolly and cheerful attitude keeps the spirit of entertainment while working, alive."
   ribbon:
     - {abbr: "DSC", title: "Developer Student Club", url: "https://developers.google.com/groups/chapter/110301321530950732281/"}
   social:

@@ -17,33 +17,4 @@
   language: en
   complexity: "Intermediate"
   video: "//www.youtube.com/embed/CNLVZjBE08g"
--
-  id: 002
-  title: "Vice President"
-  description: ""
-  subtype:
-  speakers: [4, 5]
-  language: en
-  complexity: "Intermediate"
-  presentation: ""
-  video: "//www.youtube.com/embed/AZXtJuSLz54"
--
-  id: 004
-  title: "Vice President (Management)"
-  description: ""
-  subtype:
-  speakers: [6]
-  language: en
-  complexity: "Beginner"
-  presentation: ""
-  video: "//www.youtube.com/embed/AZXtJuSLz54"
--
-  id: 005
-  title: "Management Co-Lead"
-  description: ""
-  subtype:
-  speakers: [7]
-  language: en
-  complexity: "Expert"
-  presentation: ""
-  video: "//www.youtube.com/embed/AZXtJuSLz54"
+
